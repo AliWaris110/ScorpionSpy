@@ -1,0 +1,136 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+    "loginToken": "bb0748a4cc21a7d6e30b469c1c3f1410",
+    "logs": [
+      {
+        "time": "2020-01-11T15:23:07.971Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2021-01-08T10:48:53.239Z",
+        "type": "ERROR",
+        "message": "Build Failed - File Patch Error - READ"
+      },
+      {
+        "time": "2021-01-08T10:49:39.451Z",
+        "type": "ERROR",
+        "message": "Build Failed - File Patch Error - READ"
+      },
+      {
+        "time": "2021-01-08T11:05:56.117Z",
+        "type": "ERROR",
+        "message": "Build Failed - File Patch Error - READ"
+      },
+      {
+        "time": "2021-01-08T11:09:51.019Z",
+        "type": "ERROR",
+        "message": "Build Failed - File Patch Error - READ"
+      },
+      {
+        "time": "2021-01-08T11:10:13.526Z",
+        "type": "ERROR",
+        "message": "Build Failed - File Patch Error - READ"
+      },
+      {
+        "time": "2021-01-08T11:13:55.495Z",
+        "type": "ERROR",
+        "message": "Build Failed - File Patch Error - READ"
+      },
+      {
+        "time": "2021-01-08T11:14:19.207Z",
+        "type": "ERROR",
+        "message": "Build Failed - File Patch Error - READ"
+      },
+      {
+        "time": "2021-01-08T11:18:14.867Z",
+        "type": "ERROR",
+        "message": "Build Failed - File Patch Error - READ"
+      },
+      {
+        "time": "2021-01-08T13:09:07.026Z",
+        "type": "ERROR",
+        "message": "Build Failed - File Patch Error - READ"
+      },
+      {
+        "time": "2021-01-08T13:13:29.601Z",
+        "type": "ERROR",
+        "message": "Build Failed - File Patch Error - READ"
+      },
+      {
+        "time": "2021-01-08T13:30:36.857Z",
+        "type": "ERROR",
+        "message": "Build Failed - File Patch Error - READ"
+      },
+      {
+        "time": "2021-01-08T21:20:04.006Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"C:\\Users\\AliWaris\\AndroidStudioProjects\\ScorpionSpy\\server2.0\\app\\factory\\apktool.jar\" b \"C:\\Users\\AliWaris\\AndroidStudioProjects\\ScorpionSpy\\server2.0\\app\\factory\\decompiled\" -o \"C:\\Users\\AliWaris\\AndroidStudioProjects\\ScorpionSpy\\server2.0\\assets\\webpublic\\build.apk\"\n"
+      },
+      {
+        "time": "2021-01-08T21:20:25.130Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"C:\\Users\\AliWaris\\AndroidStudioProjects\\ScorpionSpy\\server2.0\\app\\factory\\apktool.jar\" b \"C:\\Users\\AliWaris\\AndroidStudioProjects\\ScorpionSpy\\server2.0\\app\\factory\\decompiled\" -o \"C:\\Users\\AliWaris\\AndroidStudioProjects\\ScorpionSpy\\server2.0\\assets\\webpublic\\build.apk\"\n"
+      },
+      {
+        "time": "2021-01-11T06:50:05.959Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"C:\\Users\\AliWaris\\AndroidStudioProjects\\ScorpionSpy\\server2.0\\app\\factory\\apktool_2.5.0.jar\" b \"C:\\Users\\AliWaris\\AndroidStudioProjects\\ScorpionSpy\\server2.0\\app\\factory\\decompiled\" -o \"C:\\Users\\AliWaris\\AndroidStudioProjects\\ScorpionSpy\\server2.0\\assets\\webpublic\\build.apk\"\napp\\factory\\decompiled\\smali\\com\\example\\project20\\R.smali[1,0] required (...)+ loop did not match anything at input 'http'\r\napp\\factory\\decompiled\\smali\\com\\example\\project20\\R.smali[1,5] Error for input '/': Invalid text\r\napp\\factory\\decompiled\\smali\\com\\example\\project20\\R.smali[1,6] Error for input '/': Invalid text\r\napp\\factory\\decompiled\\smali\\com\\example\\project20\\R.smali[1,19] Error for input '.ngrok': Invalid directive\r\napp\\factory\\decompiled\\smali\\com\\example\\project20\\R.smali[1,25] Error for input '.io': Invalid directive\r\nCould not smali file: com/example/project20/R.smali\r\n"
+      },
+      {
+        "time": "2021-01-11T08:15:38.071Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"C:\\Users\\AliWaris\\AndroidStudioProjects\\ScorpionSpy\\server2.0\\app\\factory\\apktool_2.5.0.jar\" b \"C:\\Users\\AliWaris\\AndroidStudioProjects\\ScorpionSpy\\server2.0\\app\\factory\\decompiled\" -o \"C:\\Users\\AliWaris\\AndroidStudioProjects\\ScorpionSpy\\server2.0\\assets\\webpublic\\build.apk\"\napp\\factory\\decompiled\\smali\\com\\example\\project20\\R.smali[1,0] required (...)+ loop did not match anything at input 'http'\r\napp\\factory\\decompiled\\smali\\com\\example\\project20\\R.smali[1,5] Error for input '/': Invalid text\r\napp\\factory\\decompiled\\smali\\com\\example\\project20\\R.smali[1,6] Error for input '/': Invalid text\r\napp\\factory\\decompiled\\smali\\com\\example\\project20\\R.smali[1,19] Error for input '.ngrok': Invalid directive\r\napp\\factory\\decompiled\\smali\\com\\example\\project20\\R.smali[1,25] Error for input '.io': Invalid directive\r\nCould not smali file: com/example/project20/R.smali\r\n"
+      },
+      {
+        "time": "2021-01-11T08:19:26.045Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"C:\\Users\\AliWaris\\AndroidStudioProjects\\ScorpionSpy\\server2.0\\app\\factory\\apktool_2.5.0.jar\" b \"C:\\Users\\AliWaris\\AndroidStudioProjects\\ScorpionSpy\\server2.0\\app\\factory\\decompiled\" -o \"C:\\Users\\AliWaris\\AndroidStudioProjects\\ScorpionSpy\\server2.0\\assets\\webpublic\\build.apk\"\napp\\factory\\decompiled\\smali\\com\\example\\project20\\R.smali[1,0] required (...)+ loop did not match anything at input 'http'\r\napp\\factory\\decompiled\\smali\\com\\example\\project20\\R.smali[1,5] Error for input '/': Invalid text\r\napp\\factory\\decompiled\\smali\\com\\example\\project20\\R.smali[1,6] Error for input '/': Invalid text\r\napp\\factory\\decompiled\\smali\\com\\example\\project20\\R.smali[1,19] Error for input '.ngrok': Invalid directive\r\napp\\factory\\decompiled\\smali\\com\\example\\project20\\R.smali[1,25] Error for input '.io': Invalid directive\r\nCould not smali file: com/example/project20/R.smali\r\n"
+      },
+      {
+        "time": "2021-01-11T08:44:45.925Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"C:\\Users\\AliWaris\\AndroidStudioProjects\\ScorpionSpy\\server2.0\\app\\factory\\apktool_2.5.0.jar\" b \"C:\\Users\\AliWaris\\AndroidStudioProjects\\ScorpionSpy\\server2.0\\app\\factory\\decompiled\" -o \"C:\\Users\\AliWaris\\AndroidStudioProjects\\ScorpionSpy\\server2.0\\assets\\webpublic\\build.apk\"\napp\\factory\\decompiled\\smali\\com\\example\\project20\\R.smali[1,0] required (...)+ loop did not match anything at input 'http'\r\napp\\factory\\decompiled\\smali\\com\\example\\project20\\R.smali[1,5] Error for input '/': Invalid text\r\napp\\factory\\decompiled\\smali\\com\\example\\project20\\R.smali[1,6] Error for input '/': Invalid text\r\napp\\factory\\decompiled\\smali\\com\\example\\project20\\R.smali[1,19] Error for input '.ngrok': Invalid directive\r\napp\\factory\\decompiled\\smali\\com\\example\\project20\\R.smali[1,25] Error for input '.io': Invalid directive\r\nCould not smali file: com/example/project20/R.smali\r\n"
+      },
+      {
+        "time": "2021-01-11T09:10:57.816Z",
+        "type": "ERROR",
+        "message": "Build Failed - File Patch Error - READ"
+      },
+      {
+        "time": "2021-01-11T09:22:35.652Z",
+        "type": "ERROR",
+        "message": "Build Failed - Sign Command Failed - Command failed: java -jar \"C:\\Users\\AliWaris\\AndroidStudioProjects\\ScorpionSpy\\server2.0\\app\\factory\\uber-apk-signer-1.2.1.jar\" -a \"C:\\Users\\AliWaris\\AndroidStudioProjects\\ScorpionSpy\\server2.0\\assets\\webpublic\\build.apk\" --ks \"C:\\Users\\AliWaris\\AndroidStudioProjects\\ScorpionSpy\\server2.0\\app\\factory\\release.jks\"  --ksAlias key0 --ksPass plmzaq098321 --ksKeyPass plmzaq098321 --out \"C:\\Users\\AliWaris\\AndroidStudioProjects\\ScorpionSpy\\server2.0\\assets\\webpublic\"\nFailed to load signer \"signer #1\"\r\njava.io.IOException: Keystore was tampered with, or password was incorrect\r\n\tat java.base/sun.security.provider.JavaKeyStore.engineLoad(JavaKeyStore.java:792)\r\n\tat java.base/sun.security.util.KeyStoreDelegator.engineLoad(KeyStoreDelegator.java:243)\r\n\tat java.base/java.security.KeyStore.load(KeyStore.java:1479)\r\n\tat com.android.apksigner.SignerParams.loadKeyStoreFromFile(SignerParams.java:353)\r\n\tat com.android.apksigner.SignerParams.loadPrivateKeyAndCertsFromKeyStore(SignerParams.java:239)\r\n\tat com.android.apksigner.SignerParams.loadPrivateKeyAndCerts(SignerParams.java:181)\r\n\tat com.android.apksigner.ApkSignerTool.sign(ApkSignerTool.java:277)\r\n\tat com.android.apksigner.ApkSignerTool.main(ApkSignerTool.java:83)\r\n\tat at.favre.tools.apksigner.SignTool.sign(SignTool.java:314)\r\n\tat at.favre.tools.apksigner.SignTool.execute(SignTool.java:150)\r\n\tat at.favre.tools.apksigner.SignTool.mainExecute(SignTool.java:45)\r\n\tat at.favre.tools.apksigner.SignTool.main(SignTool.java:33)\r\nCaused by: java.security.UnrecoverableKeyException: Password verification failed\r\n\tat java.base/sun.security.provider.JavaKeyStore.engineLoad(JavaKeyStore.java:790)\r\n\t... 11 more\r\n"
+      },
+      {
+        "time": "2021-01-11T10:15:37.839Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2021-01-11T10:26:03.469Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2021-01-11T10:33:28.154Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2021-01-11T11:18:11.351Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2021-01-11T11:33:17.638Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": []
+}
